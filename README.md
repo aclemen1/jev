@@ -1,3 +1,5 @@
+> **Ce dépôt est archivé.** Depuis le 12.10.2026, le code vit dans le monorepo privé `aclemen1/jarvis`, sous `jev/`. Ce dépôt ne reçoit plus de changements.
+
 # jev
 
 Go client for TypeSafe's System One API (`POST /v1/systemone`): the hosted Jev
